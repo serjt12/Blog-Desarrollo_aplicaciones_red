@@ -1,0 +1,181 @@
+body {
+    font-family: 'Libre Baskerville', serif;
+    overflow-x: hidden;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+
+header {
+    background-color:  hsl(205, 100%, 96%)
+}
+
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style: none;
+    margin-right: 20px;
+}
+
+h2 {
+    color:#FF9911
+}
+
+p, h3, h4 {
+    color: #666665;
+    line-height: 1.5;
+}
+
+.container {
+    padding: 20px;
+}
+
+.logo-img {
+    width: 44px;
+}
+
+.logo-container {
+    display: flex;
+}
+
+.nav-item {
+    color:#FF9911
+}
+
+.nav-item:link, a {
+    text-decoration: none;
+    color: #000;
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.blog-title {
+    font-weight: bold;
+    color: #FF9911;
+}
+
+.post-date {
+    font-size: smaller;
+    color: #999;
+    margin: 0px;
+}
+
+.post-title {
+    margin: 0px;
+}
+
+.post-container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.post-img {
+    width: 600px;
+    border: 5px solid rgba(162, 162, 168, 0.1);
+}
+
+.post-content {
+    width: 900px;
+}
+
+.post-description {
+    text-align: left;
+    line-height: 2;
+    height: 67%;
+}
+
+.learn-more-button {
+    background-color: #5362eb;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    float: left;
+    cursor: pointer;
+}
+
+.learn-more-button:hover {
+    font-size: larger;
+}
+
+section {
+    margin-top: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+
+.next-section {
+    background-color:  hsl(210, 100%, 96%);
+    
+}
+
+.button {
+    text-decoration: none;
+    color: #fff;
+}
+
+.first-article {
+    width: 69%;
+    padding: 15px;
+}
+
+aside {
+    border: 1px solid rgba(162, 162, 168, 0.1);
+    width: 20%;
+    padding: 20px;
+}
+
+.user-name {
+    margin: 0px;
+}
+
+.user-avatar {
+    width: 200px;
+    border-radius: 40%;
+}
+
+.article-img {
+    border-radius: 50%;
+    border: 5px solid rgba(162, 162, 168, 0.3);
+}
+
+.post-text {
+    text-align: justify;
+    padding: 0px 20px;
+}
+
+.history-img {
+    border: 5px solid rgba(162, 162, 168, 0.3);
+    border-radius: 10px;
+}
+
+.css-history-img {
+    width: 900px;
+}
+
+.about-img {
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid rgba(162, 162, 168, 0.1);
+}
+
+footer {
+    text-align: center;
+    background-color: aliceblue;
+    padding: 10px;
+}
