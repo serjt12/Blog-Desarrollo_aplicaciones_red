@@ -12,7 +12,7 @@
     project_description
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://serjt12.github.io">View Demo</a>
   </p>
 </div>
 
@@ -38,4 +38,4 @@ Para correr el blog se puede hacer uso de live server, extension de vscode, o da
 
 Your Name - [@serjt12](https://twitter.com/serjt12) - jandreus87@gmail.com
 
-Project Link: [https://github.com/serjt12/Blog-Desarrollo_aplicaciones_red](https://github.com/serjt12/Blog-Desarrollo_aplicaciones_red)
+Project Link: [https://github.com/serjt12/serjt12.github.io](https://github.com/serjt12/serjt12.github.io)
